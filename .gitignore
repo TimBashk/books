@@ -1,0 +1,4 @@
+mysql-data
+www/vendor
+.env
+/.idea
